@@ -2,7 +2,7 @@
 Información del Taller "Análisis de secuencias empleando QIIME2" que se llevara a cabo del 11 al 15 de agosto de 2025 en la biblioteca del  CICESE en la sala "minisum" de 10:00 a 13:00 horas 
 
 
-![QIIME2](https://qiime2.org/assets/img/qiime2.svg)
+![QIIME2](https://cicese-at.cicese.mx/dif/down2/logotipos/jpg/Logo_cicese_mr_con_margen.jpg); ![Lab. Metagenomica](https://pbs.twimg.com/profile_images/1180509121595899904/2ykpD-ol_400x400.jpg)
 
 *Facilitadores:*
 - **Dr. Valentín Pérez-Hernández**
@@ -45,4 +45,4 @@ Información del Taller "Análisis de secuencias empleando QIIME2" que se llevar
 **Cupo:**
 - *12 personas*
 
- ![CICESE LOGO](https://www.cicese.edu.mx/assets/img/cicese.png)
+ ![CICESE LOGO](https://avatars.githubusercontent.com/u/18176583?s=200&v=4)
